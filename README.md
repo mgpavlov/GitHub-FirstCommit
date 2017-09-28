@@ -1,3 +1,4 @@
 # GitHub-Homework
-This will make conflict!
 No one likes us, we don't care!
+You'll never walk alone!!!
+We resolved the conflict!
