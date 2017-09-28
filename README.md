@@ -1,4 +1,4 @@
 # GitHub-Homework
 No one likes us, we don't care!
 You'll never walk alone!!!
-Make conflicts.
+Solo Levski!!!
